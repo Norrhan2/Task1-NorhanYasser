@@ -78,4 +78,3 @@ Bot: Goodbye! Keep building great things. 👋
 
 ---
 
-*DecodeLabs | Powered by pure Python logic*
