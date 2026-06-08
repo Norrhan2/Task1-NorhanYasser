@@ -1,7 +1,5 @@
 # Project 1: Rule-Based AI Chatbot 🤖
 
-**DecodeLabs Industrial Training Kit — Batch 2026**
-
 ---
 
 ## What This Is
